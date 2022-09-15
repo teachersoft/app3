@@ -1,2 +1,2 @@
 # app3
-Busque un pryecto de tipo aia y subalo a la plataforma
+Busque un proyecto de tipo aia y subalo a la plataforma
